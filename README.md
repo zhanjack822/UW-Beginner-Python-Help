@@ -38,7 +38,7 @@ A repository where first year students can submit code snippets and receive feed
         ```console
         git add DIRECTORY_NAME/
         ```
-        Note that this will also add any files that are contained in your directory as well. It is generally bad practice to add directories this way, and the reason why will be explained later. You should add your directory upon its creation when it is empty, and add any new files separately after they have been added to the directory.
+        Note that your directory will only be tracked if it isn't empty. Add a README.md file with a basic description (e.g. "My code") so that you can the directory. Note that you should only add the directory with the README.md file initially, before you've added any other content. This is explained in step 8. Add the directory first, commit it, and then add any files you want to include in that directory and commit those as well.
     * For files that have been removed, use:
         ```console
         git rm FILE_NAME
