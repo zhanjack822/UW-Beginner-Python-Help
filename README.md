@@ -9,7 +9,7 @@ A repository where first year students can submit code snippets and receive feed
     ```
     If your directory path includes spaces, enclose the path with quotation marks. Once you have navigated to this directory in your terminal, enter the following command:
     ```console
-    git clone https://github.com/zhanjack822/UW-2022-First-Year-Physics-Coding
+    git clone https://github.com/zhanjack822/UW-2022-First-Year-Physics-Coding.git
     ```
     The cloned repository on your computer is referred to as a "local repository" while the repository on GitHub is referred to as the "remote repository."
     
