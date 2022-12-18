@@ -7,7 +7,7 @@ A repository where first year students can submit code snippets and receive feed
     ```console
     cd PATH/TO/DIRECTORY
     ```
-    Once you have navigated to this directory in your terminal, enter the following command:
+    If your directory path includes spaces, enclose the path with quotation marks. Once you have navigated to this directory in your terminal, enter the following command:
     ```console
     git clone https://github.com/zhanjack822/UW-2022-First-Year-Physics-Coding
     ```
