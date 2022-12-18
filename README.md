@@ -3,7 +3,7 @@ A repository where first year students can submit code snippets and receive feed
 
 # Instructions on setting up a local repository
 
-1. The first thing you need to do is clone the repository. To do this, open a terminal (in administrator mode in Windows) and navigate to the directory where you want the repository folder to be cloned to. If you haven't used a terminal before, simply copy the address of the desired directory and use:
+1. The first thing you need to do is clone the repository. To do this, open a terminal (in administrator mode in Windows) and navigate to the directory where you want the repository folder to be cloned to. It's recommended that this note be in your user directory, which contains your commonly used directories for your desktop, downloads, documents, etc. If you haven't used a terminal before, simply copy the address of the desired directory and use:
     ```console
     cd PATH/TO/DIRECTORY
     ```
