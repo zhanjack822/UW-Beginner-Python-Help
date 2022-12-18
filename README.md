@@ -48,7 +48,7 @@ A repository where first year students can submit code snippets and receive feed
         ```console
         git add DIRECTORY_NAME/
         ```
-        Note that this will also add any files that are contained in your directory as well. It is generally bad practice to add directories this way, and the reason why will be explained later. You should add your directory upon its creation when it is empty, and add any new files separately after they have been added to the directory.
+        Note that this will also add any files that are contained in your directory as well. It is generally bad practice to add directories this way, and the reason why will be explained later in step 8. You should add your directory upon its creation when it is empty, and add any new files separately after they have been added to the directory.
     * For files that have been removed, use:
         ```console
         git rm FILE_NAME
