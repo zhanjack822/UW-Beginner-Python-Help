@@ -23,5 +23,6 @@ if __name__ == "__main__":
     # Repeat for 3
 ```
 
+Whether you want to define a function or method that returns the values of a and/or b and then print the return value of that function in your `__name__ == "__main__"` block or have your functions or methods print the values is up to you. There are no restrictions on what libraries you can use. 
 
 
