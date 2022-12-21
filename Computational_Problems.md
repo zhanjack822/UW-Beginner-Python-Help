@@ -18,9 +18,7 @@ Your Python solution should follow the following format:
 # "Business code"
 
 if __name__ == "__main__":
-    # calls whatever functions or classes defined above for scenario 1
-    # Repeat for 2
-    # Repeat for 3
+    # calls whatever functions or classes defined above to obtain the values of a and b in each scenario
 ```
 
 Whether you want to define a function or method that returns the values of a and/or b and then print the return value of that function in your `__name__ == "__main__"` block or have your functions or methods print the values is up to you. There are no restrictions on what libraries you can use. 
