@@ -67,7 +67,14 @@ A repository where first year students can submit code snippets and receive feed
     ```console
     git commit -m "Your commit message."
     ```
-    Your commit message should briefly explain the changes that were made. Because every file modified or added should have its own commit message, you should add each file and commit it separately. This allows tracking of changes easier for those keeping tabs on the repository.
+    Your commit message should briefly explain the changes that were made. Because every file modified or added should have its own commit message, you should add each file and commit it separately. This allows tracking of changes easier for those keeping tabs on the repository. For longer commit messages where the explanation should be of paragraph length, utilize the following:
+    ```console
+    git commit
+    ```
+    This will open the text editor your git is set to and creates the commit message in a file. The first line of your file is the commit header which appears beside the files on the repote repository. Add a blank line and add your in-depth description in a paragraph underneath the blank line. If you don't wish to use git's default editor (VIM through the git bash interface), you can set your editor of choice using 
+    ```console
+    git config --global core.editor PATH/TO/text_editor
+    ```
     
 9. After the changes have all been committed, push them to the remote repository. For your first push after creating a new branch, use:
     ```console
